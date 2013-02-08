@@ -15,14 +15,14 @@ electronics
        * The idea of an oscilloscope (not how to use it)
 * Breadboards
 * Circuit diagrams and circuit elements
-#    Resistor networks
+# Resistor networks
         * Series circuits
         * Voltage dividers
         * Parallel circuits
         * Equivalent resistance
         * Combination of Series and Parallel Resistance
         * Kirchoff’s rules for circuits
-#    Bridges and Loads
+# Bridges and Loads
         * Wheatstone bridge
         * Loading a circuit - example where the voltmeter acts as a load
 
